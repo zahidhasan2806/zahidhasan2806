@@ -22,5 +22,3 @@ I started my journey in 2021. As well as work I also continued to keep learning 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=zahidhasan2806)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=zahidhasan2806)  
-
