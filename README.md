@@ -1,6 +1,8 @@
-### Hi there 👋, Hi, This Is Md Zahid Hasan
-#### Front-end Developer 
 ![Front-end Developer ](https://media-exp1.licdn.com/dms/image/C5616AQFOHPzmJKPIcw/profile-displaybackgroundimage-shrink_350_1400/0/1642851709533?e=1672272000&v=beta&t=WtLYqC7F8ysDLhK2Dpf6HcuvYqKJEz8OSP-N-AaSt4U)
+
+### Hi, This Is Md Zahid Hasan
+#### Front-end Developer 
+
 
 A front-end developer specializing in building functional web applications. Interested in the entire frontend spectrum and working on ambitious projects with positive people.
 
